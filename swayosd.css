@@ -44,7 +44,7 @@ progressbar {
     min-height: 10px;
     min-width: 160px;
     background: alpha(@border-color, 0.1); /* subtle base */
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 progressbar > trough {
